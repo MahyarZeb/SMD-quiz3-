@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"i232031": {
+			"url": "https://mcp.expo.dev/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}

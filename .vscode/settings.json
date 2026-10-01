@@ -3,5 +3,14 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
+  },
+  "chat.mcp.serverSampling": {
+    "i232031_Quiz3/.vscode/mcp.json: i232031": {
+      "allowedModels": [
+        "copilot/auto",
+        "copilotcli/auto",
+        "agent-host-copilotcli:auto"
+      ]
+    }
   }
 }

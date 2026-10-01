@@ -37,6 +37,12 @@ export default function HomeScreen() {
           <ThemedText type="title" style={styles.title}>
             Welcome to&nbsp;Expo
           </ThemedText>
+          <ThemedText type="title" style={styles.title}>
+            Mahyar Zeb
+          </ThemedText>
+          <ThemedText type="subtitle" style={styles.title}>
+            Roll No: i232031
+          </ThemedText>
         </ThemedView>
 
         <ThemedText type="code" style={styles.code}>
